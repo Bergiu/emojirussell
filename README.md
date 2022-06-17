@@ -12,5 +12,5 @@ Features:
 How to install
 
 - Download the theme into oh-my-zsh's custom themes directory:
-  - `$ mkdir -p $ZSH_CUSTOM/themes && curl https://raw.githubusercontent.com/Bergiu/emojirussell/main/emojirussell.zsh-theme -o $ZSH_CUSTOM/themes/emojirussel.zsh-theme`
+  - `$ mkdir -p $ZSH_CUSTOM/themes && curl https://raw.githubusercontent.com/Bergiu/emojirussell/main/emojirussell.zsh-theme -o $ZSH_CUSTOM/themes/emojirussell.zsh-theme`
 - Set the theme in your `.zshrc` file: `ZSH_THEME="emojirussell"`
